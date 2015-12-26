@@ -70,11 +70,6 @@ trainAndPredict <- function(featureData) {
   predResults
 }
 
-#featureData <- createFeatureData("AAPL", "2010-01-01", "2013-01-01")
-#out <- partitionData(tdOut)
-#trainModel(td)
-#preds <- trainAndPredict(featureData)
-
 
 
 
